@@ -1,168 +1,25 @@
 
-# 👋 Nathan Savonen
+# 👋 Hello My name is Nathan Savonen
+I am a current Graduate Student in Computer Science at San Jose State University
 
-I am an aspiring Software Engineer who has graduated from California State University Monterey Bay and is looking forward to working in the tech industry. I am interested in working in either Frontend or Backend Development. I enjoy learning new things and being in an environment in which the landscape is constantly changing with new technologies being created every day. In the repository section there are projects to show what I have accomplished. For more information about myself or about the projects listed, my email is nlsavonen@gmail.com.
+I graduated with Bachelors Degree in Computer Computer from California State Monterey Bay
+
+Portfolio Website:(Currently Under Construction)
+
 ---
-### Programming Languages and Tools
-<div style="
-  background:#050816;
-  padding:10px;
-  display:flex;
-  flex-wrap:wrap;
-  gap:8px;
-  font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
-">
-
-  <!-- HTML -->
-  <div style="
-    display:flex;
-    align-items:center;
-    background:#E44D26;
-    padding:6px 14px;
-    color:#ffffff;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:0.12em;
-    font-size:12px;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-         alt="HTML"
-         style="height:16px; margin-right:8px;">
-    HTML
-  </div>
-
-  <!-- CSS -->
-  <div style="
-    display:flex;
-    align-items:center;
-    background:#1572B6;
-    padding:6px 14px;
-    color:#ffffff;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:0.12em;
-    font-size:12px;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-         alt="CSS"
-         style="height:16px; margin-right:8px;">
-    CSS
-  </div>
-
-  <!-- JavaScript -->
-  <div style="
-    display:flex;
-    align-items:center;
-    background:#F7DF1E;
-    padding:6px 14px;
-    color:#000000;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:0.12em;
-    font-size:12px;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-         alt="JavaScript"
-         style="height:16px; margin-right:8px;">
-    JavaScript
-  </div>
-
-  <!-- Python -->
-  <div style="
-    display:flex;
-    align-items:center;
-    background:#3776AB;
-    padding:6px 14px;
-    color:#ffffff;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:0.12em;
-    font-size:12px;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-         alt="Python"
-         style="height:16px; margin-right:8px;">
-    Python
-  </div>
-
-  <!-- Java -->
-  <div style="
-    display:flex;
-    align-items:center;
-    background:#ED8B00;
-    padding:6px 14px;
-    color:#ffffff;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:0.12em;
-    font-size:12px;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-         alt="Java"
-         style="height:16px; margin-right:8px;">
-    Java
-  </div>
-
-  <!-- C++ -->
-  <div style="
-    display:flex;
-    align-items:center;
-    background:#00599C;
-    padding:6px 14px;
-    color:#ffffff;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:0.12em;
-    font-size:12px;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-         alt="C++"
-         style="height:16px; margin-right:8px;">
-    C++
-  </div>
-
-  <!-- React -->
-  <div style="
-    display:flex;
-    align-items:center;
-    background:#20232A;
-    padding:6px 14px;
-    color:#61DAFB;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:0.12em;
-    font-size:12px;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-         alt="React"
-         style="height:16px; margin-right:8px;">
-    React
-  </div>
-
-  <!-- Docker -->
-  <div style="
-    display:flex;
-    align-items:center;
-    background:#2496ED;
-    padding:6px 14px;
-    color:#ffffff;
-    font-weight:600;
-    text-transform:uppercase;
-    letter-spacing:0.12em;
-    font-size:12px;
-  ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-         alt="Docker"
-         style="height:16px; margin-right:8px;">
-    Docker
-  </div>
-
-</div>
+### Tech Stack
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-3B0270?style=for-the-badge&logo=oracle&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
-
-
-
-### 📊 Nathan Performance
+### 📊 Code Performance
 
 ![Nathan Savonen GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Savonen&show_icons=true&theme=algolia)
 
