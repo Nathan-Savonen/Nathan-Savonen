@@ -4,18 +4,159 @@
 I am an aspiring Software Engineer who has graduated from California State University Monterey Bay and is looking forward to working in the tech industry. I am interested in working in either Frontend or Backend Development. I enjoy learning new things and being in an environment in which the landscape is constantly changing with new technologies being created every day. In the repository section there are projects to show what I have accomplished. For more information about myself or about the projects listed, my email is nlsavonen@gmail.com.
 ---
 ### Programming Languages and Tools
-<div style="display: inline-block;">
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<div style="
+  background:#050816;
+  padding:10px;
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+">
+
+  <!-- HTML -->
+  <div style="
+    display:flex;
+    align-items:center;
+    background:#E44D26;
+    padding:6px 14px;
+    color:#ffffff;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    font-size:12px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+         alt="HTML"
+         style="height:16px; margin-right:8px;">
+    HTML
+  </div>
+
+  <!-- CSS -->
+  <div style="
+    display:flex;
+    align-items:center;
+    background:#1572B6;
+    padding:6px 14px;
+    color:#ffffff;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    font-size:12px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+         alt="CSS"
+         style="height:16px; margin-right:8px;">
+    CSS
+  </div>
+
+  <!-- JavaScript -->
+  <div style="
+    display:flex;
+    align-items:center;
+    background:#F7DF1E;
+    padding:6px 14px;
+    color:#000000;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    font-size:12px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+         alt="JavaScript"
+         style="height:16px; margin-right:8px;">
+    JavaScript
+  </div>
+
+  <!-- Python -->
+  <div style="
+    display:flex;
+    align-items:center;
+    background:#3776AB;
+    padding:6px 14px;
+    color:#ffffff;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    font-size:12px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         alt="Python"
+         style="height:16px; margin-right:8px;">
+    Python
+  </div>
+
+  <!-- Java -->
+  <div style="
+    display:flex;
+    align-items:center;
+    background:#ED8B00;
+    padding:6px 14px;
+    color:#ffffff;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    font-size:12px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+         alt="Java"
+         style="height:16px; margin-right:8px;">
+    Java
+  </div>
+
+  <!-- C++ -->
+  <div style="
+    display:flex;
+    align-items:center;
+    background:#00599C;
+    padding:6px 14px;
+    color:#ffffff;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    font-size:12px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+         alt="C++"
+         style="height:16px; margin-right:8px;">
+    C++
+  </div>
+
+  <!-- React -->
+  <div style="
+    display:flex;
+    align-items:center;
+    background:#20232A;
+    padding:6px 14px;
+    color:#61DAFB;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    font-size:12px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+         alt="React"
+         style="height:16px; margin-right:8px;">
+    React
+  </div>
+
+  <!-- Docker -->
+  <div style="
+    display:flex;
+    align-items:center;
+    background:#2496ED;
+    padding:6px 14px;
+    color:#ffffff;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    font-size:12px;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+         alt="Docker"
+         style="height:16px; margin-right:8px;">
+    Docker
+  </div>
+
 </div>
 <br />
 
