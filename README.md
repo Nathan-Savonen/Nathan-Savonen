@@ -19,8 +19,3 @@ Portfolio Website:(Currently Under Construction)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
-### 📊 Code Performance
-
-![Nathan Savonen GitHub stats](https://github-readme-stats.vercel.app/api?username=Nathan-Savonen&show_icons=true&theme=algolia)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Nathan-Savonen&theme=algolia&border_radius=4.5) -->
